@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://k51.github.io/categories/%E5%85%B6%E5%AE%83/</loc>
-    <lastmod>2020-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -88,20 +88,6 @@
   <url>
     <loc>https://k51.github.io/post/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2020-07-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://k51.github.io/tags/latex/</loc>
-    <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://k51.github.io/post/%E5%9C%A8hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E4%BD%BFlatex%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA/</loc>
-    <lastmod>2020-08-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
