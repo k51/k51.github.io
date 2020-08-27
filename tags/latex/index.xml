@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>latex on 笔记</title>
+    <link>https://k51.github.io/tags/latex/</link>
+    <description>Recent content in latex on 笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://k51.github.io/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>在Hexo博客中使LaTeX正常显示</title>
+      <link>https://k51.github.io/post/%E5%9C%A8hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E4%BD%BFlatex%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://k51.github.io/post/%E5%9C%A8hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E4%BD%BFlatex%E6%AD%A3%E5%B8%B8%E6%98%BE%E7%A4%BA/</guid>
+      <description>&lt;p&gt;上传博客时发现LaTeX无法正常显示，显示为源代码。后终于解决了这个问题，并记录了下来。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
