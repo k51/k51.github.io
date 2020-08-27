@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BPR on 笔记</title>
+    <link>https://k51.github.io/tags/bpr/</link>
+    <description>Recent content in BPR on 笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://k51.github.io/tags/bpr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>贝叶斯个性化排序(BPR)</title>
+      <link>https://k51.github.io/post/%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%92%E5%BA%8Fbpr/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://k51.github.io/post/%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%92%E5%BA%8Fbpr/</guid>
+      <description>&lt;p&gt;与其他的基于用户评分矩阵的方法不同的是BPR主要采用用户的隐式反馈（如点击、收藏等），通过对问题进行贝叶斯分析得到的最大后验概率来对item进行排序。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
