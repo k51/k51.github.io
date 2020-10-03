@@ -50,7 +50,7 @@
 <meta itemprop="description" content="与其他的基于用户评分矩阵的方法不同的是BPR主要采用用户的隐式反馈（如点击、收藏等），通过对问题进行贝叶斯分析得到的最大后验概率来对item进行排序。">
 <meta itemprop="datePublished" content="2020-08-26T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2020-08-26T00:00:00+00:00" />
-<meta itemprop="wordCount" content="956">
+<meta itemprop="wordCount" content="955">
 
 
 
@@ -196,17 +196,17 @@ $$
 P(i&gt;_uj|\theta)=\sigma(\bar{x}_{uij}(\theta))
 $$
 $\sigma(x)$是 sigmoid 函数。</p>
-<p>对于$\bar{x}<em>{uij}(\theta)$这个式子，要满足当$i&gt;_uj$时，$\bar{x}</em>{uij}(\theta)&gt;0$，反之当$j&gt;_ui$时，$\bar{x}<em>{uij}(\theta)&lt;0$，最简单的表示这个性质的方法是
+<p>对于$\bar{x}_{uij}(\theta)$这个式子，要满足当$i&gt;_uj$时，$\bar{x}<em>{uij}(\theta)&gt;0$，反之当$j&gt;_ui$时，$\bar{x}</em>{uij}(\theta)&lt;0$，最简单的表示这个性质的方法是
 $$
-\bar{x}</em>{uij}(\theta)=\bar{x}<em>{ui}(\theta)-\bar{x}</em>{uj}(\theta)
+\bar{x}<em>{uij}(\theta)=\bar{x}</em>{ui}(\theta)-\bar{x}<em>{uj}(\theta)
 $$
-$\bar{x}<em>{ui}(\theta)$，$\bar{x}</em>{uj}(\theta)$是矩阵$\overline{X}$对应位置的值。为了方便，不写$\theta$，上式可以表示为：
+$\bar{x}</em>{ui}(\theta)$，$\bar{x}<em>{uj}(\theta)$是矩阵$\overline{X}$对应位置的值。为了方便，不写$\theta$，上式可以表示为：
 $$
-\bar{x}<em>{uij}=\bar{x}</em>{ui}-\bar{x}<em>{uj}
+\bar{x}</em>{uij}=\bar{x}<em>{ui}-\bar{x}</em>{uj}
 $$
 最终，第一部分优化目标转化为：
 $$
-\prod</em>{u\in U}P(&gt;_u|\theta)=\prod_{(u,i,j)\in D}\sigma(\bar{x}_{ui}-\bar{x}_{uj})
+\prod_{u\in U}P(&gt;_u|\theta)=\prod_{(u,i,j)\in D}\sigma(\bar{x}_{ui}-\bar{x}_{uj})
 $$
 对于第二部分$P(\theta)$，使用贝叶斯假设，即这个概率分布符合正态分布，且对应的均值是0，协方差矩阵是$\lambda_{\theta}I$，即
 $$
@@ -216,7 +216,6 @@ $$
 $$
 lnP(\theta|&gt;_u)\propto{lnP(&gt;_u|\theta)}P(\theta)=ln\prod_{(u,i,j)\in{D}}\sigma(\bar{x}_{ui}-\bar{x}_{uj})+lnP(\theta)=\sum_{(u,i,j)\in{D}}ln\sigma(\bar{x}_{ui}-\bar{x}_{uj})+\lambda||\theta||^2
 $$</p>
-<p>之后</p>
     </div>
 
     <div class="post-copyright">
