@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 笔记</title>
-    <link>https://k51.github.io/tags/</link>
+    <link>https://k51.cool/tags/</link>
     <description>Recent content in Tags on 笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://k51.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://k51.cool/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BPR</title>
-      <link>https://k51.github.io/tags/bpr/</link>
+      <link>https://k51.cool/tags/bpr/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://k51.github.io/tags/bpr/</guid>
+      <guid>https://k51.cool/tags/bpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>排序</title>
-      <link>https://k51.github.io/tags/%E6%8E%92%E5%BA%8F/</link>
+      <link>https://k51.cool/tags/%E6%8E%92%E5%BA%8F/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://k51.github.io/tags/%E6%8E%92%E5%BA%8F/</guid>
+      <guid>https://k51.cool/tags/%E6%8E%92%E5%BA%8F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VSCode</title>
-      <link>https://k51.github.io/tags/vscode/</link>
+      <link>https://k51.cool/tags/vscode/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://k51.github.io/tags/vscode/</guid>
+      <guid>https://k51.cool/tags/vscode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>服务器</title>
-      <link>https://k51.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <link>https://k51.cool/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://k51.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <guid>https://k51.cool/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
       <description></description>
     </item>
     

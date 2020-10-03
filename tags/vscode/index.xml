@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VSCode on 笔记</title>
-    <link>https://k51.github.io/tags/vscode/</link>
+    <link>https://k51.cool/tags/vscode/</link>
     <description>Recent content in VSCode on 笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://k51.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://k51.cool/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>在VSCode终端中使用Anaconda环境</title>
-      <link>https://k51.github.io/post/%E5%9C%A8-vscode-%E7%BB%88%E7%AB%AF%E4%B8%AD%E4%BD%BF%E7%94%A8-anaconda-%E7%8E%AF%E5%A2%83/</link>
+      <link>https://k51.cool/post/%E5%9C%A8-vscode-%E7%BB%88%E7%AB%AF%E4%B8%AD%E4%BD%BF%E7%94%A8-anaconda-%E7%8E%AF%E5%A2%83/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://k51.github.io/post/%E5%9C%A8-vscode-%E7%BB%88%E7%AB%AF%E4%B8%AD%E4%BD%BF%E7%94%A8-anaconda-%E7%8E%AF%E5%A2%83/</guid>
+      <guid>https://k51.cool/post/%E5%9C%A8-vscode-%E7%BB%88%E7%AB%AF%E4%B8%AD%E4%BD%BF%E7%94%A8-anaconda-%E7%8E%AF%E5%A2%83/</guid>
       <description>&lt;p&gt;在快捷键文件 Anaconda Powershell Prompt（Anaconda3） 的属性中复制相关参数内容&lt;/p&gt;</description>
     </item>
     
