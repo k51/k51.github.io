@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://k51.github.io/sitemap.xml
+Sitemap: https://k51.cool/sitemap.xml
